@@ -1,65 +1,66 @@
 package today;
 
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.Scanner;
-import java.util.Stack;
 
 public class sw1238 {
-	static Stack<Integer> stack = new Stack<>();
-	static int V;
-	static int start;
 	static int[][] board;
-	static int[] check;
+	static boolean[] check;
+	static int[] arr;
+	static int cnt = 0;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
 		Scanner sc = new Scanner(System.in);
 
 		for (int test_case = 1; test_case <= 10; test_case++) {
 
-			V = sc.nextInt();
-			start = sc.nextInt();
+			int N = sc.nextInt();
+			int start = sc.nextInt();
+			board = new int[N + 1][N + 1];
+			check = new boolean[N + 1];
+			arr = new int[N + 1];
 			sc.nextLine();
-			String[] temp = sc.nextLine().split(" ");
-			board = new int[V + 1][V + 1];
-			check = new int[V + 1];
-
-			// 값 받음
-			for (int i = 0; i < temp.length - 1; i++) {
-				int x = Integer.parseInt(temp[i++]);
-				int y = Integer.parseInt(temp[i]);
-
-				if (board[x][y] == 0) {
+			String[] st = sc.nextLine().split(" ");
+			for (int i = 0; i < st.length - 1; i = i + 2) {
+				int x = Integer.parseInt(st[i]);
+				int y = Integer.parseInt(st[i + 1]);
+				if (board[x][y] != 1) {
 					board[x][y] = 1;
-					check[y]++;
+
 				}
 			}
 
-			find(start);
+			System.out.println("#"+test_case+" "+BFS(start));
 
 		}
-
 	}
 
-	public static void find(int start) {
-		stack.push(start);
-		if (start != 2)
-			stack.pop();
-		while (!stack.isEmpty()) {
-			System.out.println(stack.toString());
-			int save = stack.pop();
-			System.out.print(save + " ");
-			for (int i = 1; i < V + 1; i++) {
-				if (board[save][i] == 1) {
-					check[i]--;
-					if (check[i] == 0)
-						stack.push(i);
-					find(i);
+	public static int BFS(int start) {
+		Queue<Integer> qu = new LinkedList<>();
+		qu.add(start);
+		int result = 0;
+		check[start] = true;
+		arr[start] = 1;
+		while (!qu.isEmpty()) {
+			int temp = qu.poll();
+			for (int i = 0; i < board.length; i++) {
+				if (board[temp][i] == 1 && !check[i]) {
+					arr[i] = arr[temp] + 1;
+					qu.add(i);
+					check[i] = true;
 				}
-
 			}
-
+			cnt = arr[temp];
 		}
-		System.out.println();
+		for (int i = 1; i < arr.length; i++) {
+			if (cnt == arr[i]) {
+				result = result > i ? result : i;
+			}
+			
+		}
+		return result;
 	}
-
 }
