@@ -21,18 +21,12 @@ public class sw1244 {
 			for (int i = 0; i < save.length; i++) {
 				save[i] = Integer.parseInt(st[i]);
 			}
+			
 			if (save.length < cnt)
 				cnt = save.length;
 
 			result = dfs(0, 0);
-//			if (result == 0) {
-//				String str = "";
-//				for (int i = 0; i < save.length; i++) {
-//					str += save[i];
-//				}
-//				System.out.println("#" + test_case + " " + str);
-//				continue;
-//			}
+
 			System.out.println("#" + test_case + " " + result);
 
 		}
