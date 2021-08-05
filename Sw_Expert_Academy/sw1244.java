@@ -3,6 +3,9 @@ package today;
 import java.util.Scanner;
 
 public class sw1244 {
+	static int[] save;
+	static int cnt;
+	static int result;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -10,49 +13,56 @@ public class sw1244 {
 		Scanner sc = new Scanner(System.in);
 		sc.nextInt();
 		for (int test_case = 1; test_case <= 10; test_case++) {
+
 			String[] st = sc.next().split("");
-			int cnt = sc.nextInt();
-
-			int[] save = new int[st.length];
-
+			save = new int[st.length];
+			result = 0;
+			cnt = sc.nextInt();
 			for (int i = 0; i < save.length; i++) {
 				save[i] = Integer.parseInt(st[i]);
 			}
-			for (int i = 0; i < save.length; i++) {
-				if (cnt == 0)
-					break;
-				int temp = save[i];
-				int tempindex = 0;
+			if (save.length < cnt)
+				cnt = save.length;
 
-				for (int j = i + 1; j < save.length; j++) {
-					if (save[i] > save[j]) {
-						if (temp < save[j]) {
-							temp = save[j];
-							tempindex = j;
-							
-						}
-					} else {
-						if (temp <= save[j]) {
-							temp = save[j];
-							tempindex = j;
-						}
-					}
+			result = dfs(0, 0);
+//			if (result == 0) {
+//				String str = "";
+//				for (int i = 0; i < save.length; i++) {
+//					str += save[i];
+//				}
+//				System.out.println("#" + test_case + " " + str);
+//				continue;
+//			}
+			System.out.println("#" + test_case + " " + result);
 
-				}
-
-				save[tempindex] = save[i];
-				save[i] = temp;
-				cnt--;
-				if (save[tempindex] == save[i])
-					continue;
-
-			}
-			System.out.print("#" + test_case + " ");
-			for (int i = 0; i < save.length; i++) {
-				System.out.print(+save[i]);
-			}
-			System.out.println();
 		}
+	}
+
+	public static int dfs(int check, int start) {
+		if (check == cnt) {
+			String str = "";
+			for (int i = 0; i < save.length; i++) {
+				str += save[i];
+			}
+			result = Integer.max(result, Integer.parseInt(str));
+			return result;
+		}
+		for (int i = start; i < save.length - 1; i++) {
+			for (int j = i + 1; j < save.length; j++) {
+
+				swap(i, j);
+				dfs(check + 1, i);
+				swap(i, j);
+
+			}
+		}
+		return result;
+	}
+
+	public static void swap(int num1, int num2) {
+		int temp = save[num1];
+		save[num1] = save[num2];
+		save[num2] = temp;
 	}
 
 }
