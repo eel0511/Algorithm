@@ -1,7 +1,5 @@
 package today;
 
-import java.util.Arrays;
-import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
@@ -27,17 +25,6 @@ public class boj1260 {
 		for (int i = 0; i < M; i++) {
 			board[sc.nextInt()][sc.nextInt()] = 1;
 		}
-//		Arrays.sort(board, new Comparator<int[]>() {
-//			@Override
-//			public int compare(int[] o1, int[] o2) {
-//				// TODO Auto-generated method stub
-//				if (o1[0] == o2[0]) {
-//					return o1[1] - o2[1];
-//				} else {
-//					return o1[0] - o2[0];
-//				}
-//			}
-//		});
 		dfs(V);
 		System.out.println();
 		init();
