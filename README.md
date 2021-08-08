@@ -1,5 +1,12 @@
 ### 💡 Study Diary 수형  
 
+8/6이전 BOJ는 정리 X
+
+<details markdown="1">
+<summary><strong> Kotlin (2021/07/23 ~ 2021/08/05)</strong></summary>
+<br>
+<br>
+
 |날짜|내용|
 |------:|:---:|
 |**7/23(금)**|1단계 [[2557]](https://www.acmicpc.net/problem/2557) , 2단계 [[1330]](https://www.acmicpc.net/problem/1330)|
@@ -16,4 +23,31 @@
 |**8/3(화)**|Programmers[[문자열압축]](https://programmers.co.kr/learn/courses/30/lessons/60057)|
 |**8/4(수)**|X|
 |**8/5(목)**|Programmers[[네트워크]](https://programmers.co.kr/learn/courses/30/lessons/43162)|
-|**8/6(금)**||
+
+
+<br>
+
+</details>
+
+
+
+<details markdown="1">
+<summary><strong> JAVA & Kotiln (2021/08/07 ~ 2021/08/14)</strong></summary>
+<br>
+<br>
+
+|     날짜     | 내용 |
+| :----------: |:----:|
+|**8/6(금)**|[boj1012_유기농배추](https://www.acmicpc.net/problem/1012)([java](./Java_BOJ/boj1012_유기농배추.java))<br/>[boj2178_미로탐색](https://www.acmicpc.net/problem/2178)([java](./Java_BOJ/boj2178_미로탐색.java)) <br/>[boj2606_바이러스](https://www.acmicpc.net/problem/2606)([java](./Java_BOJ/boj2606_바이러스.java))|
+| **8/7(토)**  |[boj7562_나이트의이동](https://www.acmicpc.net/problem/7562)([java](./Java_BOJ/boj7562_나이트의이동.java))<br/>[boj7576_토마토](https://www.acmicpc.net/problem/7576)([java](./Java_BOJ/boj7576_토마토.java))|
+| **8/8(일)** |      |
+| **8/9(월)** |      |
+| **8/10(화)** |      |
+| **8/11(수)** |      |
+| **8/12(목)** |      |
+| **8/13(금)** |      |
+
+
+<br>
+
+</details>
