@@ -36,16 +36,16 @@
 <br>
 <br>
 
-|     날짜     | 내용 |
-| :----------: |:----:|
-|**8/6(금)**|boj1012_유기농배추[java](https://www.acmicpc.net/problem/1012), boj2178_미로탐색[java](https://www.acmicpc.net/problem/2178) , boj2606_바이러스[java](https://www.acmicpc.net/problem/2606)|
-| **8/7(토)**  |boj7562_나이트의이동[java](https://www.acmicpc.net/problem/7562), boj7576_토마토[java](https://www.acmicpc.net/problem/7576)|
-| **8/8(일)** |      |
-| **8/9(월)** |      |
-| **8/10(화)** |      |
-| **8/11(수)** |      |
-| **8/12(목)** |      |
-| **8/13(금)** |      |
+|     날짜     | 내용 |풀이|
+| :----------: |:----:|:----:|
+|**8/6(금)**|[boj1012_유기농배추](https://www.acmicpc.net/problem/1012), [boj2178_미로탐색](https://www.acmicpc.net/problem/2178) ,[boj2606_바이러스](https://www.acmicpc.net/problem/2606)| |
+| **8/7(토)**  |[boj7562_나이트의이동](https://www.acmicpc.net/problem/7562), [boj7576_토마토](https://www.acmicpc.net/problem/7576)| |
+| **8/8(일)** |      | |
+| **8/9(월)** |      | |
+| **8/10(화)** |      | |
+| **8/11(수)** |      | |
+| **8/12(목)** |      | |
+| **8/13(금)** |      | |
 
 
 <br>
