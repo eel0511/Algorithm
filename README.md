@@ -1,5 +1,11 @@
 ### 💡 Study Diary 수형  
 
+
+<details markdown="1">
+<summary><strong> Kotlin (2021/07/23 ~ 2021/08/06)</strong></summary>
+<br>
+<br>
+
 |날짜|내용|
 |------:|:---:|
 |**7/23(금)**|1단계 [[2557]](https://www.acmicpc.net/problem/2557) , 2단계 [[1330]](https://www.acmicpc.net/problem/1330)|
@@ -17,3 +23,29 @@
 |**8/4(수)**|X|
 |**8/5(목)**|Programmers[[네트워크]](https://programmers.co.kr/learn/courses/30/lessons/43162)|
 |**8/6(금)**||
+
+<br>
+
+</details>
+
+
+
+<details markdown="1">
+<summary><strong> Kotlin (2021/08/07 ~ 2021/08/14)</strong></summary>
+<br>
+<br>
+
+|     날짜     | 내용 | 정리글 |
+| :----------: | ---- | :----: |
+| **8/7(토)**  |      |        |
+| **8/8(일)** |      |        |
+| **8/9(월)** |      |        |
+| **8/10(화)** |      |        |
+| **8/11(수)** |      |        |
+| **8/12(목)** |      |        |
+| **8/13(금)** |      |        |
+
+
+<br>
+
+</details>
