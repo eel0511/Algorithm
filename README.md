@@ -41,8 +41,8 @@
 |**8/6(금)**|[boj1012_유기농배추](https://www.acmicpc.net/problem/1012)([java](./Java_BOJ/boj1012_유기농배추.java))<br/>[boj2178_미로탐색](https://www.acmicpc.net/problem/2178)([java](./Java_BOJ/boj2178_미로탐색.java)) <br/>[boj2606_바이러스](https://www.acmicpc.net/problem/2606)([java](./Java_BOJ/boj2606_바이러스.java))|
 | **8/7(토)**  |[boj7562_나이트의이동](https://www.acmicpc.net/problem/7562)([java](./Java_BOJ/boj7562_나이트의이동.java))<br/>[boj7576_토마토](https://www.acmicpc.net/problem/7576)([java](./Java_BOJ/boj7576_토마토.java))|
 | **8/8(일)** |[boj13305_주유소](https://www.acmicpc.net/problem/13305)([java](./Java_BOJ/boj13305_주유소.java))     |
-| **8/9(월)** |      |
-| **8/10(화)** |      |
+| **8/9(월)** |[boj1012_유기농배추](https://www.acmicpc.net/problem/1012)([Kotlin](./Kotlin/1012_유기농배추.kt))|
+| **8/10(화)** |[boj1697_숨바꼭질](https://www.acmicpc.net/problem/1697)([java] (./Java_BOJ/boj1697_.java))     |
 | **8/11(수)** |      |
 | **8/12(목)** |      |
 | **8/13(금)** |      |
