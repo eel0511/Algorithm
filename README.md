@@ -43,7 +43,7 @@
 | **8/8(일)** |[boj13305_주유소](https://www.acmicpc.net/problem/13305)([java](./Java_BOJ/boj13305_주유소.java))     |
 | **8/9(월)** |[boj1012_유기농배추](https://www.acmicpc.net/problem/1012)([Kotlin](./Kotlin/1012_유기농배추.kt))|
 | **8/10(화)** |[boj1697_숨바꼭질](https://www.acmicpc.net/problem/1697)([java](./Java_BOJ/boj1697_숨바꼭질.java))     |
-| **8/11(수)** |[boj2589_보물섬](https://www.acmicpc.net/problem/2589)([java](./Java_BOJ/boj2589_보물섬.java))|
+| **8/11(수)** |[boj2589_보물섬](https://www.acmicpc.net/problem/2589)([java](./Java_BOJ/boj2589_보물섬.java))<br/>[boj1759_암호만들기](https://www.acmicpc.net/problem/1759)([java](./Java_BOJ/boj1759_암호만들기.java))|
 | **8/12(목)** |      |
 | **8/13(금)** |      |
 
