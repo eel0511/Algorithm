@@ -3,7 +3,7 @@ package today;
 import java.io.*;
 import java.util.*;
 
-public class boj1764_듣보잡2 {
+public class boj1764_듣보잡 {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
@@ -12,25 +12,32 @@ public class boj1764_듣보잡2 {
 		int N = sc.nextInt();
 		int M = sc.nextInt();
 
-		Set<String> set = new HashSet<>();
-		ArrayList<String> list = new ArrayList<>();
+		ArrayList<String> list1 = new ArrayList<>();
+		ArrayList<String> list2 = new ArrayList<>();
+		ArrayList<String> result = new ArrayList<>();
 
-		// set에 추가
 		for (int i = 0; i < N; i++) {
 			String temp = sc.next();
-			set.add(temp);
-		}
-		// set과 비교해서 들어잇으면 list에 추가
-		for (int i = 0; i < M; i++) {
-			String temp = sc.next();
-			if (set.contains(temp)) {
-				list.add(temp);
-			}
+			list1.add(temp);
 		}
 
-		Collections.sort(list);
-		System.out.println(list.size());
-		for (String temp : list) {
+		for (int i = 0; i < M; i++) {
+			String temp = sc.next();
+			list2.add(temp);
+		}
+
+		Collections.sort(list1);
+		Collections.sort(list2);
+		for (String temp : list1) {
+
+			if (Collections.binarySearch(list2, temp) >0) {
+				result.add(temp);
+			}
+		}
+		
+		Collections.sort(result);
+		System.out.println(result.size());
+		for(String temp : result) {
 			System.out.println(temp);
 		}
 
