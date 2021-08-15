@@ -61,7 +61,7 @@
 |     날짜     | 내용 |
 | :----------: |:----:|
 |**8/14(토)**||
-|**8/15(일)**|[boj1912_연속합](https://www.acmicpc.net/problem/1912)([java](./Java_BOJ/boj1912_연속합.java))<br/>[boj18405_경쟁적전염](https://www.acmicpc.net/problem/18405)([java](./Java_BOJ/boj18405_경쟁적전염.java))<br/>[boj11279_최대힙](https://www.acmicpc.net/problem/11279)([kotlin](./Kotlin/boj11279_최대힙.kt))|
+|**8/15(일)**|[boj1912_연속합](https://www.acmicpc.net/problem/1912)([java](./Java_BOJ/boj1912_연속합.java))<br/>[boj18405_경쟁적전염](https://www.acmicpc.net/problem/18405)([java](./Java_BOJ/boj18405_경쟁적전염.java))<br/>[boj11279_최대힙](https://www.acmicpc.net/problem/11279)([kotlin](./Kotlin/boj11279_최대힙.kt))<br/>[boj4256_트리](https://www.acmicpc.net/problem/4256)([kotlin](./Kotlin/boj4256_트리.kt))|
 |**8/16(월)**||
 |**8/17(화)**||
 |**8/18(수)**||
