@@ -54,7 +54,7 @@
 
 
 <details markdown="1">
-<summary><strong> JAVA & Kotiln (2021/08/07 ~ 2021/08/14)</strong></summary>
+<summary><strong> JAVA & Kotiln (2021/08/14 ~ 2021/08/21)</strong></summary>
 <br>
 <br>
 
