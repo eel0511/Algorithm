@@ -32,7 +32,7 @@
 
 
 <details markdown="1">
-<summary><strong> JAVA & Kotiln (2021/08/07 ~ 2021/08/13)</strong></summary>
+<summary><strong> JAVA & Kotiln (2021/08/06 ~ 2021/08/13)</strong></summary>
 <br>
 <br>
 
