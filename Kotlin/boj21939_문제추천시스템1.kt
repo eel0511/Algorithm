@@ -30,12 +30,5 @@ fun main() {
 //트리셋에 class를 넣으려면 자바처럼 Comparable을 구현해야함
 //코틀린은 class생성시 var로 파라미터를 주면 바로 getter setter도 됨
 class Node(var num1: Int, var num2: Int) : Comparable<Node> {
-
-    override fun compareTo(other: Node): Int {
-        return if (num2 - other.num2 == 0) {
-            num1 - other.num1
-        } else {
-            num2 - other.num2
-        }
-    }
+    override fun compareTo(other: Node): Int = if (num2 - other.num2 == 0) { num1 - other.num1 } else { num2 - other.num2 }
 }
