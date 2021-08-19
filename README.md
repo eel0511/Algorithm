@@ -60,13 +60,31 @@
 
 |     날짜     | 내용 |
 | :----------: |:----:|
-|**8/14(토)**||
+|**8/14(토)**|X|
 |**8/15(일)**|[boj1912_연속합](https://www.acmicpc.net/problem/1912)([java](./Java_BOJ/boj1912_연속합.java))<br/>[boj18405_경쟁적전염](https://www.acmicpc.net/problem/18405)([java](./Java_BOJ/boj18405_경쟁적전염.java))<br/>[boj11279_최대힙](https://www.acmicpc.net/problem/11279)([kotlin](./Kotlin/boj11279_최대힙.kt))<br/>[boj4256_트리](https://www.acmicpc.net/problem/4256)([kotlin](./Kotlin/boj4256_트리.kt))<br/>[boj6597_트리복구](https://www.acmicpc.net/problem/6597)([kotlin](./Kotlin/boj6597_트리복구.kt))<br/>[boj9461_파도반수열](https://www.acmicpc.net/problem/9461)([java](./Java_BOJ/boj9461_파도반수열.java))|
 |**8/16(월)**|[boj1620_나는야포켓몬마스터이다솜](https://www.acmicpc.net/problem/1620)([java](./Java_BOJ/boj1620_나는야포켓몬마스터이다솜.java))<br/>[boj1927_최소힙](https://www.acmicpc.net/problem/1927)([java](./Java_BOJ/boj1927_최소힙.java))<br/>[boj10026_적록색약](https://www.acmicpc.net/problem/10026)([java](./Java_BOJ/boj10026_적록색약.java))|
 |**8/17(화)**|[boj2800_괄호제거](https://www.acmicpc.net/problem/2800)([java](./Java_BOJ/boj2800_괄호제거.java))|
 |**8/18(수)**|[boj2800_괄호제거](https://www.acmicpc.net/problem/2800)([Kotlin](./Kotlin/boj2800_괄호제거.kt))<br/>[boj21939_문제추천시스템1](https://www.acmicpc.net/problem/2800)([Kotlin](./Kotlin/boj21939_문제추천시스템1.kt))<br/>[boj2075_N번째큰수](https://www.acmicpc.net/problem/2800)([Kotlin](./Kotlin/boj2075_N번째큰수.kt))|
-|**8/19(목)**||
+|**8/19(목)**|하루종일 Vue함|
 |**8/20(금)**||
+
+<br>
+
+</details>
+
+<details markdown="1">
+<summary><strong> JAVA & Kotiln (2021/08/21 ~ 2021/08/27)</strong></summary>
+<br>
+<br>
+|     날짜     | 내용 |
+| :----------: |:----:|
+|**8/21(토)**||
+|**8/22(일)**||
+|**8/23(월)**||
+|**8/24(화)**||
+|**8/25(수)**||
+|**8/26(목)**||
+|**8/27(금)**||
 
 <br>
 
