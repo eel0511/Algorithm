@@ -66,7 +66,7 @@
 |**8/17(화)**|[boj2800_괄호제거](https://www.acmicpc.net/problem/2800)([java](./Java_BOJ/boj2800_괄호제거.java))|
 |**8/18(수)**|[boj2800_괄호제거](https://www.acmicpc.net/problem/2800)([Kotlin](./Kotlin/boj2800_괄호제거.kt))<br/>[boj21939_문제추천시스템1](https://www.acmicpc.net/problem/2800)([Kotlin](./Kotlin/boj21939_문제추천시스템1.kt))<br/>[boj2075_N번째큰수](https://www.acmicpc.net/problem/2800)([Kotlin](./Kotlin/boj2075_N번째큰수.kt))|
 |**8/19(목)**|하루종일 Vue함|
-|**8/20(금)**||
+|**8/20(금)**|[boj20365_블로그2](https://www.acmicpc.net/problem/20365)([Kotlin](./Kotlin/boj20365_블로그2.kt))|
 
 <br>
 
