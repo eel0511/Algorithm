@@ -37,7 +37,7 @@ public class boj22942_데이터체커 {
 				temp = q.poll();
 				continue;
 			}
-			// circle[i] 기준원의 오른쪽에 circle[j]가 있을경우
+			// circle[i] 기준원의 오른쪽에 circle[j]가 있을경우는 정렬했으므로 없음
 			if ((temp[0] - temp[1] > newX + newR) && (temp[0] - temp[1] > newX - newR)) {
 				temp = q.poll();
 				continue;
