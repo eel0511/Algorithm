@@ -79,7 +79,7 @@
 
 |     날짜     | 내용 |
 | :----------: |:----:|
-|**8/21(토)**|[boj2636_치즈](https://www.acmicpc.net/problem/2636)([java](./Java_BOJ/boj2636_치즈.java))|
+|**8/21(토)**|[boj2636_치즈](https://www.acmicpc.net/problem/2636)([java](./Java_BOJ/boj2636_치즈.java))<br/>[boj22942_데이터체커](https://www.acmicpc.net/problem/22942)([java](./Java_BOJ/boj22942_데이터체커.java))|
 |**8/22(일)**||
 |**8/23(월)**||
 |**8/24(화)**||
