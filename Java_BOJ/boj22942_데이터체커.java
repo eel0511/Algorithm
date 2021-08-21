@@ -15,9 +15,9 @@ public class boj22942_데이터체커 {
 			@Override
 			public int compare(int[] o1, int[] o2) {
 				// TODO Auto-generated method stub
-				if (o1[0] < o2[0]) {
+				if (o1[1] < o2[1]) {
 					return 1;
-				} else if (o1[0] > o2[0]) {
+				} else if (o1[1] > o2[1]) {
 					return -1;
 				} else {
 					return 0;
@@ -37,8 +37,8 @@ public class boj22942_데이터체커 {
 				temp = q.poll();
 				continue;
 			}
-			// circle[i] 기준원의 오른쪽에 circle[j]가 있을경우는 정렬했으므로 없음
-			if ((temp[0] - temp[1] > newX + newR) && (temp[0] - temp[1] > newX - newR)) {
+			// circle[i] 기준원의 오른쪽에 circle[j]가 있을경우
+			if ((temp[0] + temp[1] < newX + newR) && (temp[0] + temp[1] < newX - newR)) {
 				temp = q.poll();
 				continue;
 			}
