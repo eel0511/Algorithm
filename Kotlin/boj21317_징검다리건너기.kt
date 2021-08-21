@@ -42,7 +42,10 @@ fun makedp(index: Int, cnt: Int) {
 //        result = result.coerceAtMost(sum)
 //        return
 //    }
+//    //1칸움직인것
 //    jump(sum + energy[cnt][0], cnt + 1, big)
+//    //2칸움직인것
 //    jump(sum + energy[cnt][1], cnt + 2, big)
+//    //3칸은 한번만되므로 big이 true면 안뛰고 아니면 뜀
 //    if (!big) jump(sum + K, cnt + 3, true)
 //}
