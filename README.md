@@ -82,7 +82,7 @@
 |**8/21(토)**|[boj2636_치즈](https://www.acmicpc.net/problem/2636)([java](./Java_BOJ/boj2636_치즈.java))<br/>[boj22942_데이터체커](https://www.acmicpc.net/problem/22942)([java](./Java_BOJ/boj22942_데이터체커.java))<br/>[boj21275_폰호석만](https://www.acmicpc.net/problem/21275)([Kotlin](./Kotlin/boj21275_폰호석만.kt))<br/>[boj20437_문자열게임2](https://www.acmicpc.net/problem/20437)([java](./Java_BOJ/boj20437_문자열게임2.java))|
 |**8/22(일)**|[boj21317_징검다리건너기](https://www.acmicpc.net/problem/21317)([Kotlin](./Kotlin/boj21317_징검다리건너기.kt))<br/>[boj2960_에라토스테네스의체](https://www.acmicpc.net/problem/21317)([Kotlin](./Kotlin/boj2960_에라토스테네스의체.kt))<br/>[boj1747_소수팰린드롬](https://www.acmicpc.net/problem/21317)([Kotlin](./Kotlin/boj1747_소수팰린드롬.kt))|
 |**8/23(월)**|[boj2493_탑](https://www.acmicpc.net/problem/21317)([Kotlin](./Kotlin/[boj2493_탑.kt))|
-|**8/24(화)**||
+|**8/24(화)**|[sw1859_백만장자프로젝트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&categoryId=AV5LrsUaDxcDFAXc&categoryType=CODE&problemTitle=%EB%B0%B1%EB%A7%8C&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)|
 |**8/25(수)**||
 |**8/26(목)**||
 |**8/27(금)**||
