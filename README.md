@@ -83,8 +83,8 @@
 |**8/22(일)**|[boj21317_징검다리건너기](https://www.acmicpc.net/problem/21317)([Kotlin](./Kotlin/boj21317_징검다리건너기.kt))<br/>[boj2960_에라토스테네스의체](https://www.acmicpc.net/problem/21317)([Kotlin](./Kotlin/boj2960_에라토스테네스의체.kt))<br/>[boj1747_소수팰린드롬](https://www.acmicpc.net/problem/21317)([Kotlin](./Kotlin/boj1747_소수팰린드롬.kt))|
 |**8/23(월)**|[boj2493_탑](https://www.acmicpc.net/problem/21317)([Kotlin](./Kotlin/[boj2493_탑.kt))|
 |**8/24(화)**|[sw1859_백만장자프로젝트]<br/>[sw11387_몬스터사냥]<br/>[sw12221_구구단2]|
-|**8/25(수)**||
-|**8/26(목)**||
+|**8/25(수)**|Spring공부|
+|**8/26(목)**|[sw8457_알덴테스파게티]<br/>[sw11445_무한사전]<br/>[sw12368_24시간]|
 |**8/27(금)**||
 
 <br>
