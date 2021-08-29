@@ -100,7 +100,7 @@
 |     날짜     | 내용 |
 | :----------: |:----:|
 |**8/28(토)**|X|
-|**8/29(일)**|[boj2563_색종이](https://www.acmicpc.net/problem/2563)([java](./Java_BOJ/boj2563_색종이.java))|
+|**8/29(일)**|[boj2563_색종이](https://www.acmicpc.net/problem/2563)([java](./Java_BOJ/boj2563_색종이.java))<br/>[boj2571_색종이](https://www.acmicpc.net/problem/2571)([java](./Java_BOJ/boj2571_색종이3.java))|
 |**8/30(월)**||
 |**8/31(화)**||
 |**9/01(수)**||
