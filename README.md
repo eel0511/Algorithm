@@ -103,7 +103,7 @@
 |**8/29(일)**|[boj2563_색종이](https://www.acmicpc.net/problem/2563)([java](./Java_BOJ/boj2563_색종이.java))<br/>[boj2571_색종이](https://www.acmicpc.net/problem/2571)([java](./Java_BOJ/boj2571_색종이3.java))<br/>[boj9655_돌게임](https://www.acmicpc.net/problem/9655)([java](./Java_BOJ/boj9655_돌게임.java))<br/>[boj1706_크로스워드](https://www.acmicpc.net/problem/1706)([java](./Java_BOJ/boj1706_크로스워드.java))|
 |**8/30(월)**|[sw2805_농작물수확하기]<br/>[sw1249_보급로]|
 |**8/31(화)**|[sw1248_공통조상]<br/>[sw1221_GNS]<br>[boj20922_겹치는건싫어](https://www.acmicpc.net/problem/20922)([Kotlin](./Kotlin/[bo20922_겹치는건싫어.kt))<br/>[boj1915_가장큰정사각형](https://www.acmicpc.net/problem/1915)([java](./Java_BOJ/boj1915_가장큰정사각형.java))|
-|**9/01(수)**||
+|**9/01(수)**|[sw1258_행렬찾기]<br/>[sw1251_하나로]<br/>[sw1259_금속막대]|
 |**9/02(목)**||
 |**9/03(금)**||
 
