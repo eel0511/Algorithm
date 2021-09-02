@@ -104,7 +104,7 @@
 |**8/30(월)**|[sw2805_농작물수확하기]<br/>[sw1249_보급로]|
 |**8/31(화)**|[sw1248_공통조상]<br/>[sw1221_GNS]<br>[boj20922_겹치는건싫어](https://www.acmicpc.net/problem/20922)([Kotlin](./Kotlin/[bo20922_겹치는건싫어.kt))<br/>[boj1915_가장큰정사각형](https://www.acmicpc.net/problem/1915)([java](./Java_BOJ/boj1915_가장큰정사각형.java))|
 |**9/01(수)**|[sw1258_행렬찾기]<br/>[sw1251_하나로]<br/>[sw1259_금속막대]<br/>[boj2293_동전1](https://www.acmicpc.net/problem/2293)([java](./Java_BOJ/boj2293_동전1.java))<br/>[boj14940_쉬운최단거리](https://www.acmicpc.net/problem/14940)([java](./Java_BOJ/boj14940_쉬운최단거리.java))<br/>[boj3980_선발명단](https://www.acmicpc.net/problem/3980)([java](./Java_BOJ/boj3980_선발명단.java))|
-|**9/02(목)**||
+|**9/02(목)**|[sw4008_숫자만들기]<br/>[sw1952_수영장]|
 |**9/03(금)**||
 
 <br>
