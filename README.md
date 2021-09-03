@@ -105,7 +105,7 @@
 |**8/31(화)**|[sw1248_공통조상]<br/>[sw1221_GNS]<br>[boj20922_겹치는건싫어](https://www.acmicpc.net/problem/20922)([Kotlin](./Kotlin/[bo20922_겹치는건싫어.kt))<br/>[boj1915_가장큰정사각형](https://www.acmicpc.net/problem/1915)([java](./Java_BOJ/boj1915_가장큰정사각형.java))|
 |**9/01(수)**|[sw1258_행렬찾기]<br/>[sw1251_하나로]<br/>[sw1259_금속막대]<br/>[boj2293_동전1](https://www.acmicpc.net/problem/2293)([java](./Java_BOJ/boj2293_동전1.java))<br/>[boj14940_쉬운최단거리](https://www.acmicpc.net/problem/14940)([java](./Java_BOJ/boj14940_쉬운최단거리.java))<br/>[boj3980_선발명단](https://www.acmicpc.net/problem/3980)([java](./Java_BOJ/boj3980_선발명단.java))|
 |**9/02(목)**|[sw4008_숫자만들기]<br/>[sw1952_수영장]|
-|**9/03(금)**|[sw7465_창용마을무리의개수]<br/>[boj1106_호텔](https://www.acmicpc.net/problem/1106)([java](./Java_BOJ/boj1106_호텔.java))<br/>[boj1890_점프](https://www.acmicpc.net/problem/1890)([java](./Java_BOJ/boj1890_점프.java))|
+|**9/03(금)**|[sw7465_창용마을무리의개수]<br/>[boj1106_호텔](https://www.acmicpc.net/problem/1106)([java](./Java_BOJ/boj1106_호텔.java))<br/>[boj1890_점프](https://www.acmicpc.net/problem/1890)([java](./Java_BOJ/boj1890_점프.java))<br/>[boj16916_부분문자열](https://www.acmicpc.net/problem/16916)([java](./Java_BOJ/bo16916_부분문자열.java))|
 
 <br>
 
