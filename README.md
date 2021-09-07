@@ -122,7 +122,7 @@
 |**9/04(토)**|Programmers[[숫자문자열과영단어]](https://programmers.co.kr/learn/courses/30/lessons/81301)<br/>Programmers[[기능개발]](https://programmers.co.kr/learn/courses/30/lessons/42586)|
 |**9/05(일)**|[boj15686_치킨배달](https://www.acmicpc.net/problem/15686)([Kotlin](./Kotlin/[boj15686_치킨배달.kt))|
 |**9/06(월)**|[sw2115_벌꿀채취]<br/>[sw1953_탈주범검거]|
-|**9/07(화)**|[boj16234_인구이동](https://www.acmicpc.net/problem/16234)([Kotlin](./Kotlin/[boj16234_인구이동.kt))|
+|**9/07(화)**|[boj16234_인구이동](https://www.acmicpc.net/problem/16234)([Kotlin](./Kotlin/[boj16234_인구이동.kt))<br/>[sw2117_홈방범서비스]|
 |**9/08(수)**||
 |**9/09(목)**||
 |**9/10(금)**||
