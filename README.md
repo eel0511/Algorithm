@@ -125,7 +125,7 @@
 |**9/07(화)**|[boj16234_인구이동](https://www.acmicpc.net/problem/16234)([Kotlin](./Kotlin/[boj16234_인구이동.kt))<br/>[sw2117_홈방범서비스]|
 |**9/08(수)**|[sw1767_프로세서연결하기]<br/>[boj20440_니가싫어](https://www.acmicpc.net/problem/20440)([java](./Java_BOJ/boj20440_니가싫어.java))<br/>[boj1715_카드정렬하기](https://www.acmicpc.net/problem/1715)([java](./Java_BOJ/boj1715_카드정렬하기.java))<br/>[boj9576_책나눠주기](https://www.acmicpc.net/problem/9576)([java](./Java_BOJ/boj9576_책나눠주기.java))|
 |**9/09(목)**|[boj14567_선수과목](https://www.acmicpc.net/problem/14567)([java](./Java_BOJ/boj14567_선수과목.java))<br/>[boj2573_빙산](https://www.acmicpc.net/problem/2573)([java](./Java_BOJ/boj2573_빙산.java))|
-|**9/10(금)**||
+|**9/10(금)**|X|
 
 <br>
 
