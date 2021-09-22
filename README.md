@@ -163,7 +163,7 @@
 |**9/20(월)**|[boj7662_이중우선순위큐](https://www.acmicpc.net/problem/7662)([Kotlin](./Kotiln/boj7662_이중우선순위큐.kt))|
 |**9/21(화)**||
 |**9/22(수)**|[boj1581_락스타동호](https://www.acmicpc.net/problem/1581)([java](./Java_BOJ/boj1581_락스타동호.java))|
-|**9/23(목)**||
+|**9/23(목)**|[boj9466_텀프로젝트](https://www.acmicpc.net/problem/9466)([java](./Java_BOJ/boj9466_텀프로젝트.java))|
 |**9/24(금)**||
 
 <br>
