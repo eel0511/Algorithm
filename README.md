@@ -1,4 +1,3 @@
-# Algorithm
 ### 💡 Study Diary 수형  
 
 8/6이전 BOJ는 정리 X
