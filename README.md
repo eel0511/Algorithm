@@ -182,7 +182,7 @@
 |**9/27(월)**||
 |**9/28(화)**||
 |**9/29(수)**||
-|**9/30(목)**|[boj2638_치즈](https://www.acmicpc.net/problem/9466)([java](./Java_BOJ/boj2638_치즈.java))|
+|**9/30(목)**|[boj2638_치즈](https://www.acmicpc.net/problem/2638)([java](./Java_BOJ/boj2638_치즈.java))<br/>[boj1043_거짓말](https://www.acmicpc.net/problem/1043)([java](./Java_BOJ/boj1043_거짓말.java))|
 |**10/01(금)**||
 
 <br>
