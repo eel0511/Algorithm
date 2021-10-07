@@ -202,7 +202,7 @@
 |**10/04(월)**||
 |**10/05(화)**|[boj3055_탈출](https://www.acmicpc.net/problem/3055)([java](./Java_BOJ/boj3055_탈출.java))|
 |**10/06(수)**||
-|**10/07(목)**||
+|**10/07(목)**[boj15657_N과M8](https://www.acmicpc.net/problem/15657)([Kotlin](./Kotiln/boj15657_N과M8.kt))|
 |**10/08(금)**||
 
 <br>
