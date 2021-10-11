@@ -223,8 +223,8 @@
 |     날짜     | 내용 |
 | :----------: |:----:|
 |**10/09(토)**|[boj13549_숨바꼭질3](https://www.acmicpc.net/problem/13549)([java](./Java_BOJ/boj13549_숨바꼭질3.java))<br/>[boj16932_모양만들기](https://www.acmicpc.net/problem/16932)([java](./Java_BOJ/boj16932_모양만들기.java))([Kotlin](./Kotiln/boj16932_모양만들기.kt))|
-|**10/10(일)**||
-|**10/11(월)**||
+|**10/10(일)**|SK C&C 코테|
+|**10/11(월)**|[boj1662_압축](https://www.acmicpc.net/problem/1662)([java](./Java_BOJ/boj1662_압축.java))|
 |**10/12(화)**||
 |**10/13(수)**||
 |**10/14(목)**||
