@@ -237,3 +237,25 @@
 
 </details>
 
+
+<details markdown="1">
+<summary><strong> JAVA & Kotiln (2021/10/16 ~ 2021/10/22)</strong></summary>
+<br>
+<br>
+
+|     날짜     | 내용 |
+| :----------: |:----:|
+|**10/16(토)**|[boj2661_좋은수열](https://www.acmicpc.net/problem/2661)([java](./Java_BOJ/boj2661_좋은수열.java))<br/>[boj1062_가르침](https://www.acmicpc.net/problem/1062)([java](./Java_BOJ/boj1062_가르침.java))|
+|**10/17(일)**||
+|**10/18(월)**||
+|**10/19(화)**||
+|**10/20(수)**||
+|**10/21(목)**||
+|**10/22(금)**||
+
+<br>
+
+
+
+</details>
+
