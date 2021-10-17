@@ -247,7 +247,7 @@
 |     날짜     | 내용 |
 | :----------: |:----:|
 |**10/16(토)**|[boj2661_좋은수열](https://www.acmicpc.net/problem/2661)([java](./Java_BOJ/boj2661_좋은수열.java))<br/>[boj1062_가르침](https://www.acmicpc.net/problem/1062)([java](./Java_BOJ/boj1062_가르침.java))|
-|**10/17(일)**||
+|**10/17(일)**|[boj21278_호석이두마리치킨](https://www.acmicpc.net/problem/21278)([java](./Java_BOJ/boj21278_호석이두마리치킨.java))<br/>|
 |**10/18(월)**||
 |**10/19(화)**||
 |**10/20(수)**||
