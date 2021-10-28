@@ -270,11 +270,11 @@
 | :----------: |:----:|
 
 |**10/23(토)**|LG CNS코테, NHN|
-|**10/24(일)**|[boj14500_테트로미노](https://www.acmicpc.net/problem/14500)([Kotlin](./Kotiln/boj14500_테트로미노.kt))||
+|**10/24(일)**|[boj14500_테트로미노](https://www.acmicpc.net/problem/14500)([Kotlin](./Kotiln/boj14500_테트로미노.kt))|
 |**10/25(월)**||
-|**10/26(화)**|[boj1477_휴게소세우기](https://www.acmicpc.net/problem/1477)([Kotlin](./Kotiln/boj1477_휴게소세우기.kt))||
+|**10/26(화)**|[boj1477_휴게소세우기](https://www.acmicpc.net/problem/1477)([Kotlin](./Kotiln/boj1477_휴게소세우기.kt))|
 |**10/27(수)**||
-|**10/28(목)**||
+|**10/28(목)**|[boj2671_잠수함식별](https://www.acmicpc.net/problem/2671)([Kotlin](./Kotiln/boj2671_잠수함식별.kt))|
 |**10/29(금)**||
 
 
